@@ -90,9 +90,7 @@ The main dependencies used in this project are:
 - Integration with MongoDB for data storage
 - RESTful API for data fetching
 
-## Screenshots
 
-(Add screenshots of your application here)
 
 ## Contributing
 
