@@ -1,5 +1,3 @@
-Sure, here is a well-structured README file for your MERN stack application dashboard:
-
 # MERN Stack Dashboard
 
 This project is a MERN stack application dashboard that provides various charts and visualizations using `react-chartjs-2` and `chart.js`. It leverages Chakra UI for styling and layout.
@@ -100,10 +98,3 @@ The main dependencies used in this project are:
 
 Contributions are welcome! Please fork this repository and submit pull requests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README file further to suit your project's specifics.
